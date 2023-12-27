@@ -8,14 +8,14 @@ In this repository, I share the code from many small apps I've developed to soli
 
 #### House Plants Classes
 
-Application that uses inheritance and 3 classes (a superclass, a subclass and an app class) that implements an object of the subclass. For instance: House Plant > Orchid > specific plant objetct.
+Application that uses inheritance and 3 classes (a superclass, a subclass and an app class) that implements an object of the subclass. For instance: House Plant > Orchid > specific plant object.
 Exercise to understand Java syntax, classes, superclass, subclass, composition, inheritance, objects.
 <br>
 <br>
 
 #### Largest Number from Array
 
-Application generates a randon array of numbers and chooses the largest number from that array.
+Application generates a random array of numbers and chooses the largest number from that array.
 Basic exercise to understand Java syntax, arrays, for loop, Math.random class, util.Arrays utility class, objects, instantiable classes.
 <br>
 <br>
@@ -57,7 +57,7 @@ Basic exercise to understand Java syntax, objects, conditions, if statements, va
 <br>
 <br>
 
-#### Psotive or Negative Number
+#### Positive or Negative Number
 
 Application that takes in a number from a user and outputs whether it is positive or negative.
 Basic exercise to understand Java syntax, conditions, if statements, variables, JOptionPane class library for input and output.
