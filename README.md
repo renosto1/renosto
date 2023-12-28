@@ -71,3 +71,10 @@ Basic exercise to understand Java syntax, conditions, if statements, variables, 
 
 Inspiration, code snippets, etc.
 * [W3Schools](https://www.w3schools.com/)
+<br>
+
+## Contact Me
+
+  <a href="https://www.linkedin.com/in/aline-renosto-970977288/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+
